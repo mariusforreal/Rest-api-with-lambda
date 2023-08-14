@@ -25,6 +25,7 @@ cd Rest-api-with-lambda
 3. Deploy the Lambda function:
    
    - Replace the `bucket_name` and `file_name` variables in the `lambda_handler` function within `lambda_function.py` with your S3 bucket name and JSON file name.
+   - lambda code can be found here: https://github.com/mariusforreal/lambda-code-for-rest-api/blob/main/code
 
 4. Deploy the Lambda function using the AWS CLI:
 
