@@ -58,7 +58,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 #################
 
-Deploying in infrastructure as code (Teraform)
+Deploying with infrastructure as code (Teraform)
 
 git clone this repo for terraform script
 git clone https://github.com/mariusforreal/terraform-for-api-deployment/tree/main
