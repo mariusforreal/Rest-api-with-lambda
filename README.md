@@ -16,8 +16,8 @@ The project consists of an AWS Lambda function written in Python that retrieves 
 ## Setup
 
 1. Clone this repository to your local machine:
- git clone https://github.com/your-username/s3-json-retrieval-api.git
-cd s3-json-retrieval-api
+ git clone https://github.com/mariusforreal/Rest-api-with-lambda.git
+cd Rest-api-with-lambda
 
 
 2. Create an S3 bucket (e.g., `devops-00237`) and upload a JSON file named `foo.json` with content `"Hi, I am the foo"`.
